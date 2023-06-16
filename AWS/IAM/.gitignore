@@ -6,3 +6,4 @@ AWS/IAM/.terraform/**
 *.tfplan
 *.tfr
 *.tfstate.lock.info
+secrets.tfvars
