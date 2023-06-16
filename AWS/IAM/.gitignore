@@ -1,0 +1,8 @@
+.terraform/
+AWS/IAM/.terraform/**
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.tfplan
+*.tfr
+*.tfstate.lock.info
